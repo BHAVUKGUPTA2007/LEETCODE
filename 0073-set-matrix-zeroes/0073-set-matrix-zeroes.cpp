@@ -6,7 +6,9 @@ public:
         for(int i = 0 ; i<matrix.size();i++){
             for(int j = 0 ; j < matrix[0].size();j++){
                 if(matrix[i][j]==0){
+                    //if there is a 0 in first row
                     if(i==0) firstrow = true;
+                    //if there is a zero in first col
                     if(j==0) firstcol= true;
                     matrix[0][j]=0;
                     matrix[i][0]=0;
