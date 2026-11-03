@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
