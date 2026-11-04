@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
@@ -69,4 +70,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/BHAVUKGUPTA2007/LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
